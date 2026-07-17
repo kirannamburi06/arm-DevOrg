@@ -3,6 +3,7 @@
     <version>64.0</version>
     <types>
         <members>classes/ApexClassTest</members>
+        <members>classes/ApexClassTest2</members>
         <name>ApexClass</name>
     </types>
 </Package>
