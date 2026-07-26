@@ -5,6 +5,7 @@
         <members>classes/ApexClassTest</members>
         <members>classes/ApexClassTest2</members>
         <members>classes/ApexClassTest3</members>
+        <members>classes/ApexClassTest4</members>
         <name>ApexClass</name>
     </types>
 </Package>
