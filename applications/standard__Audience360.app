@@ -37,6 +37,7 @@
     <tabs>standard-SemanticContext</tabs>
     <tabs>standard-KnowledgeSpace</tabs>
     <tabs>standard-DataCleanRoom</tabs>
+    <tabs>standard-DataQuickAttribute</tabs>
     <tabs>Offer__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>
