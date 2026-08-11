@@ -4,50 +4,6 @@
         <flows/>
         <fullName>sfdc_default_ReportExport_Protection_Flow</fullName>
     </flowDefinitions>
-    <quickActions>
-        <label></label>
-        <name>LogACall</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewAccount</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewCase</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewContact</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewEvent</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewGroup</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewLead</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewNote</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewOpportunity</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>NewTask</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>SendEmail</name>
-    </quickActions>
     <reportTypes>
         <description></description>
         <label></label>
