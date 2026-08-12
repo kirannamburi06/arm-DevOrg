@@ -8,6 +8,5 @@
     <label>Data Manager</label>
     <navType>Standard</navType>
     <tabs>standard-AnalyticsDataManager</tabs>
-    <tabs>Offer__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

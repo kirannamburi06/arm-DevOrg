@@ -8,12 +8,8 @@
     <label>Approvals</label>
     <navType>Console</navType>
     <tabs>standard-ApprovalsHome</tabs>
-    <tabs>Offer__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
-        <mappings>
-            <tab>Offer__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-ApprovalsHome</tab>
         </mappings>
