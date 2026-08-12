@@ -112,19 +112,10 @@
             <quickActionName>NewEvent</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>Task.UpdateStatus</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>NewTask</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>Task.EditDescription</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>Task.Defer</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>Task.UpdatePriority</quickActionName>
+        </quickActionListItems>
+        <quickActionListItems>
+            <quickActionName>Task.UpdateStatus</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>FeedItem.ContentPost</quickActionName>
@@ -136,10 +127,19 @@
             <quickActionName>FeedItem.PollPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>LogACall</quickActionName>
+            <quickActionName>NewTask</quickActionName>
+        </quickActionListItems>
+        <quickActionListItems>
+            <quickActionName>Task.EditDescription</quickActionName>
+        </quickActionListItems>
+        <quickActionListItems>
+            <quickActionName>Task.Defer</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>FeedItem.TextPost</quickActionName>
+        </quickActionListItems>
+        <quickActionListItems>
+            <quickActionName>LogACall</quickActionName>
         </quickActionListItems>
     </quickActionList>
     <relatedContent>

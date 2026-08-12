@@ -10,11 +10,12 @@
     <tabs>standard-home</tabs>
     <tabs>standard-FlowRecord</tabs>
     <tabs>standard-FlowOrchestration</tabs>
-    <tabs>standard-GlobalFlowResources</tabs>
     <tabs>standard-Monitor</tabs>
     <tabs>standard-EngagementSignal</tabs>
     <tabs>standard-ActionHub</tabs>
     <tabs>standard-FlowLogs</tabs>
+    <tabs>standard-GlobalFlowResources</tabs>
+    <tabs>Offer__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>FlowsApp_UtilityBar</utilityBar>
 </CustomApplication>

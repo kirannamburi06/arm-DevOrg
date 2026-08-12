@@ -8,8 +8,12 @@
     <label>Agentforce Studio</label>
     <navType>Console</navType>
     <tabs>standard-AgentforceStudio</tabs>
+    <tabs>Offer__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
+        <mappings>
+            <tab>Offer__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-AgentforceStudio</tab>
         </mappings>
