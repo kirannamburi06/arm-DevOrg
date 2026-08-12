@@ -23,6 +23,26 @@
         </valueSet>
     </fields>
     <fields>
+        <fullName>AutoRABIT_Label_2__c</fullName>
+        <externalId>false</externalId>
+        <label>AutoRABIT_Label_2</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>AutoRABIT_Test_Field__c</fullName>
+        <externalId>false</externalId>
+        <label>AutoRABIT Test Field</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>CustomerPriority__c</fullName>
         <label>Customer Priority</label>
         <required>false</required>
@@ -59,6 +79,16 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Number</type>
         <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Partner_Discount__c</fullName>
+        <description>Captures pre-approved discount percentages for enterprise partners.</description>
+        <label>Partner Discount</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Percent</type>
     </fields>
     <fields>
         <fullName>SLAExpirationDate__c</fullName>
@@ -135,6 +165,16 @@
                 </value>
             </valueSetDefinition>
         </valueSet>
+    </fields>
+    <fields>
+        <fullName>test2_escommit__c</fullName>
+        <externalId>false</externalId>
+        <label>test2escommit</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
     </fields>
     <listViews>
         <fullName>AllAccounts</fullName>

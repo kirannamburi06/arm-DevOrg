@@ -22,6 +22,5 @@
     <tabs>standard-Feed</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
-    <tabs>Offer__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

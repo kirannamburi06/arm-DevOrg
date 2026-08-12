@@ -7,5 +7,4 @@
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
     <tabs>standard-AppLauncher</tabs>
-    <tabs>Offer__c</tabs>
 </CustomApplication>

@@ -17,6 +17,7 @@
         <members>standard__AIWorkbench</members>
         <members>standard__AgentforceStudio</members>
         <members>standard__AllTabSet</members>
+        <members>standard__AlmDevops</members>
         <members>standard__AppLauncher</members>
         <members>standard__Approvals</members>
         <members>standard__Audience360</members>
@@ -48,12 +49,16 @@
     </types>
     <types>
         <members>Account.Active__c</members>
+        <members>Account.AutoRABIT_Label_2__c</members>
+        <members>Account.AutoRABIT_Test_Field__c</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.NumberofLocations__c</members>
+        <members>Account.Partner_Discount__c</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Account.test2_escommit__c</members>
         <members>Case.EngineeringReqNumber__c</members>
         <members>Case.PotentialLiability__c</members>
         <members>Case.Product__c</members>
@@ -134,6 +139,14 @@
         <members>unfiled$public/SupportSelfServiceNewLoginandPassword</members>
         <members>unfiled$public/SupportSelfServiceResetPassword</members>
         <name>EmailTemplate</name>
+    </types>
+    <types>
+        <members>ARM_Integration_Test</members>
+        <name>ExternalClientApplication</name>
+    </types>
+    <types>
+        <members>ARM_Integration_Test_oauth</members>
+        <name>ExtlClntAppOauthSettings</name>
     </types>
     <types>
         <members>AcademicOperations_UtilityBar</members>
@@ -356,6 +369,7 @@
         <members>TravelMode-Travel Mode Layout</members>
         <members>UniversalAnomalyEventStore-Universal Anomaly Event Store Layout</members>
         <members>User-User Layout</members>
+        <members>UserAlt-User Profile Layout</members>
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
@@ -446,6 +460,7 @@
     </types>
     <types>
         <members>Experience_Profile_Manager</members>
+        <members>SOAP_API_Authentication_Access</members>
         <members>sfdcInternalInt__sfdc_fieldservice</members>
         <members>sfdcInternalInt__sfdc_scrt2</members>
         <name>PermissionSet</name>

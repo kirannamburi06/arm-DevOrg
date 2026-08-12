@@ -9,12 +9,8 @@
     <navType>Console</navType>
     <tabs>standard-WorkbenchHome</tabs>
     <tabs>standard-TestSuite</tabs>
-    <tabs>Offer__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
-        <mappings>
-            <tab>Offer__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-TestSuite</tab>
         </mappings>
