@@ -7,6 +7,10 @@
         <members>ApexClassTest3</members>
         <members>ApexClassTest4</members>
         <members>ApxClsTst5</members>
+        <members>devedapp__DeveloperEditionUtils</members>
+        <members>devedapp__DeveloperEditionUtilsTest</members>
+        <members>devedapp__PostInstallScript</members>
+        <members>devedapp__PostInstallScriptTest</members>
         <name>ApexClass</name>
     </types>
     <types>
