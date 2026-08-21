@@ -1,1 +1,0 @@
-public class ApexClassIt1787210986416 { public static String ping() { return 'ApexClassIt1787210986416'; } }
