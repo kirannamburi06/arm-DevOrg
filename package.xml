@@ -8,4 +8,8 @@
         <members>ApexClassTest3</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>SupportProfile2</members>
+        <name>Profile</name>
+    </types>
 </Package>
