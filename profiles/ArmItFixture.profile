@@ -14,4 +14,8 @@
         <apexClass>ApexClassTest3</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>ArmItPhantomClass</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
 </Profile>
