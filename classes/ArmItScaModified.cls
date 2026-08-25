@@ -1,5 +1,5 @@
 public with sharing class ArmItScaModified {
     public static void printMessage() {
-        System.debug('baseline');
+        System.debug('modified at tip');
     }
 }
