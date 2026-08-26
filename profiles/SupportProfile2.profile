@@ -4,6 +4,14 @@
         <apexClass>ApexClassITDemo</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>ApexClassIt1786965866387</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>ApexClassIt1786966631721</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
