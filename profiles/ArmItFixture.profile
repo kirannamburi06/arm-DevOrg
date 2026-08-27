@@ -20,7 +20,7 @@
     </classAccesses>
     <loginIpRanges>
         <description>ARM IT fixture range</description>
-        <endAddress>255.255.255.255</endAddress>
-        <startAddress>0.0.0.0</startAddress>
+        <endAddress>10.0.0.255</endAddress>
+        <startAddress>10.0.0.0</startAddress>
     </loginIpRanges>
 </Profile>
