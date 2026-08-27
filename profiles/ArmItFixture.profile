@@ -18,4 +18,9 @@
         <apexClass>ArmItPhantomClass</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <loginIpRanges>
+        <description>ARM IT fixture range</description>
+        <endAddress>255.255.255.255</endAddress>
+        <startAddress>0.0.0.0</startAddress>
+    </loginIpRanges>
 </Profile>
