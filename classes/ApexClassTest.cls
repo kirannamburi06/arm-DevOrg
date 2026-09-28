@@ -1,5 +1,5 @@
 public with sharing class ApexClassTest {
 	public static void printMessage() {
-        System.debug('Hello World!');
+        System.debug('Hello from DESTINATION branch');
     }
 }
