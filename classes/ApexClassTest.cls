@@ -1,5 +1,5 @@
 public with sharing class ApexClassTest {
 	public static void printMessage() {
-        System.debug('Hello from DESTINATION branch - round 13');
+        System.debug('Hello from SOURCE branch - round 16 normal merge');
     }
 }
