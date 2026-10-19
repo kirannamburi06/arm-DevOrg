@@ -9,6 +9,7 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>SDGDefault.Pension</members>
         <members>SS_Test.Rec_Old</members>
         <name>CustomMetadata</name>
     </types>
